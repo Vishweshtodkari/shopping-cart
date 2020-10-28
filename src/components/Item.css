@@ -1,0 +1,21 @@
+
+#card:hover{
+background-color: #b2ebf2;
+border-radius: 10px;
+}
+
+#productCard{
+    background-color: #b2ebf2;
+    
+}
+
+.card-img-top{
+height:160px;
+
+}
+
+#probtn:hover{
+    color: #ef5350
+}
+
+

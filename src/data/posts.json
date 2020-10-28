@@ -1,0 +1,44 @@
+[
+    {
+        "name":"HP-Laptop", 
+        "city":"Selar:- Mumbai",
+        "image":"/hpLaptop.jpg",
+        "price":75000,
+        "value":0,
+        "id":1
+        
+    },
+    {
+        "name":"HP-Mouse", 
+        "city":"Selar:- Pune",
+        "image":"/mouse.jpg",
+        "price":1500,
+        "value":0,
+        "id":2
+    },
+    {
+        "name":"Polo T-Shart", 
+        "city":"Selar:- Solapur",
+        "image":"/tshart.jpg",
+        "size":"Size-Large", 
+        "price":1100,
+        "value":0,
+        "id":3
+    },
+    {
+        "name":"Bajaj-Mixer", 
+        "city":"Tuljapur",
+        "image":"/mixer.jpg",
+        "price":8000,
+        "value":0,
+        "id":4
+    },
+    {
+        "name":"Manjar", 
+        "city":"Tuljapur",
+        "image":"/manjar.jpg",
+        "price":3000,
+        "value":0,
+        "id":5
+    }
+]
